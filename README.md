@@ -1,12 +1,14 @@
 I have uploaded all the files. The files are in a zip folder. Do not rename any folder or directory; use it as given. All you need to do is:
 
-    Unzip the file.
+     Unzip the file.
 
-    Create a virtual environment.
+     Create a virtual environment.
 
-    Install the requirements.txt file.
+     Activate the environment 
+     
+     Install the requirements.txt file.
 
-    Activate the environment and run the project.
+     run the project.
 
 Important Note: Use only Python 3.10 or a lower version. If you use the latest Python version, TensorFlow will not work because it is not supported in newer Python releases. Please remember this.
 
@@ -130,13 +132,15 @@ I have uploaded all the files. The files are in a zip folder. Do not rename any 
 
     Create a virtual environment.
 
+    Activate the environment
+    
     Install the requirements.txt file.
 
-    Activate the environment and run the project.
+    run the project.
 
-Important Note: Use only Python 3.10 or a lower version. If you use the latest Python version, TensorFlow will not work because it is not supported in newer Python releases. Please remember this.
+**Important Note**: Use only **Python 3.10** or a lower version. If you use the latest Python version, TensorFlow will not work because it is not supported in newer Python releases. Please remember this.
 
-If you have any questions, you can contact me at my Gmail or WhatsApp: 03217062121.
+If you have any questions, you can contact me at my **Gmail or WhatsApp: 03217062121**.
 
 Disclaimer: This project requires specific dependencies and Python 3.10 or below for compatibility. Running it on unsupported versions may cause errors. I am not responsible for issues arising from using incorrect Python versions or modified directory structures.
 
@@ -181,9 +185,7 @@ python main.py
 
 ## 👨‍💻 Contributors
 
-**Shahzaib Arshad** - ML Models & Backend  
-**[Teammate]** - Frontend & UI Design  
-**[Teammate]** - Documentation & Testing  
+**Shahzaib Arshad** - ML Models & Backend  - Frontend & UI Design   - Documentation & Testing  
 
 **Supervised by:** Dr. [Name] - The Islamia University of Bahawalpur
 
